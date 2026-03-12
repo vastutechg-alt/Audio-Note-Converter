@@ -1,0 +1,7 @@
+{
+  "name": "Audio Note Converter",
+  "description": "හඬ පට ලිඛිත පෙළ බවට පත් කර විවිධ ආකාරයෙන් සකස් කර දෙන සරල මෘදුකාංගයකි.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
